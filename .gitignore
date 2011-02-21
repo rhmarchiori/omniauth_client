@@ -1,0 +1,8 @@
+.bundle
+db/**/*
+log/*.log
+tmp/**/*
+.DS_Store
+.lock
+.idea/**/*
+Gemfile.lock
